@@ -151,7 +151,8 @@
 			image: {
 				verticalFit: true,
 				titleSrc: function(item) {
-					let html = item.el.attr('data-source') ? `${item.el.attr('title')} &middot; <a class="image-source-link" href="${item.el.attr('data-source')}" target="_blank">알아보기</a>` : '';
+					let html = item.el.attr('title');
+					html += item.el.attr('data-source') ? ` &middot; <a class="image-source-link" href="${item.el.attr('data-source')}" target="_blank">알아보기</a>` : '';
 					if(item.el.attr('data-state') !== "undefined") {
 						html += item.el.attr('data-state') === "true" ? 
 							` &middot; <a class="image-source-link" href="${item.el.attr('data-document')}" target="_blank">시연 영상보기</a>` : 
