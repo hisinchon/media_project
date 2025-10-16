@@ -1,10 +1,9 @@
 <div align="center">
   
-# (산대특) 생성형 AI활용 멀티미디어 컨텐츠 전문가 양성
+# [(산대특) 생성형 AI활용 멀티미디어 컨텐츠 전문가 양성](https://hisinchon.github.io/media_project/)
 
-[<img src="https://img.shields.io/badge/1기 교육 기간-2025.02.12~2025.08.12-green?style=flat&logo=&logoColor=white" />](https://sinchon.himedia.co.kr/ai1.html)
-
-[<img src="https://img.shields.io/badge/2기 교육 기간-2025.04.23~2025.10.24-green?style=flat&logo=&logoColor=white" />](https://sinchon.himedia.co.kr/ai2.html)
+<img src="https://img.shields.io/badge/1기 교육 기간-2025.02.12~2025.08.12-green?style=flat&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/2기 교육 기간-2025.04.23~2025.10.24-green?style=flat&logo=&logoColor=white" />
 
 </div>
 

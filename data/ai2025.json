@@ -1,0 +1,211 @@
+{
+  "prj": [
+    {
+      "id": "prj1",
+      "section": "project1",
+      "name": "소프트웨어",
+      "title": "소프트웨어 프로젝트",
+      "description": "AI를 활용한 콘텐츠 제작 도구 프로그램",
+      "projects": [
+        {
+          "title": "FalseCam",
+          "url": "https://github.com/bravery33/FalseCam",
+          "image": "./images/prj/falseCam.jpg",
+          "name": "False Cam",
+          "type": "Web",
+          "state": true,
+          "docs": "https://www.youtube.com/watch?v=HEqAviRc-C8"
+        },
+        {
+          "title": "HaruFit",
+          "url": "https://github.com/gkdudcc21/harufit",
+          "image": "./images/prj/harufit.png",
+          "name": "하루핏",
+          "type": "Web",
+          "state": true,
+          "docs": "https://www.youtube.com/watch?v=Fh2AWIwRHOc"
+        },
+        {
+          "title": "FoPoFo",
+          "url": "https://github.com/yumyeongseong/project-fopofo",
+          "image": "./images/prj/fopofo.png",
+          "name": "포포포",
+          "type": "Web",
+          "state": true,
+          "docs": "https://www.youtube.com/watch?v=puXkJUhDyYI"
+        },
+        {
+          "title": "Gotham",
+          "url": "https://github.com/higotham",
+          "image": "./images/prj/gotham.webp",
+          "name": "고담",
+          "type": "Web",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/1UMS-ZR3MfbOs6IledBVVBKjvjor4grBh/view?usp=sharing"
+        },
+        {
+          "title": "Pixel",
+          "url": "https://github.com/hiedupixel",
+          "image": "./images/prj/pixel.webp",
+          "name": "픽셀",
+          "type": "Web",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/1dDhLfUrJ_J8r3dxqCc_jMLaMIVhJcKy7/view?usp=sharing"
+        },
+        {
+          "title": "Solo",
+          "url": "https://github.com/Solodkfl",
+          "image": "./images/prj/solo_dev.webp",
+          "name": "솔로",
+          "type": "Web",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/1lSGfNIyFINm4W4c4sMqNQOPBFJGIQXWq/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id": "prj2",
+      "section": "project2",
+      "name": "미디어",
+      "title": "미디어 프로젝트",
+      "description": "AI를 활용한 영상 콘텐츠 제작",
+      "projects": [
+        {
+          "title": "심해의 노래",
+          "url": "https://drive.google.com/file/d/1ZosaQx3Y6b3Uoo5q80AqZHOm-Zm1vkK5/view?usp=sharing",
+          "image": "./images/prj/s1/1. 결과보고서_1팀(주석열)_서민석.svg",
+          "name": "심해의 노래",
+          "type": "Movie",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/1tChe0tfceZSTzxN-axUnePIdqU1uddvb/view?usp=sharing"
+        },
+        {
+          "title": "프로토콜 「날개」",
+          "url": "https://drive.google.com/file/d/1RDhGPias8HA-hm2AoODUXMLsjH6v_IoU/view?usp=sharing",
+          "image": "./images/prj/falseCam.jpg",
+          "name": "프로토콜 「날개」",
+          "type": "Movie",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/1zUn52U__g13-Lzh5rubaL03AMSbrGWL-/view?usp=sharing"
+        },
+        {
+          "title": "Seasons, Still, Return",
+          "url": "https://drive.google.com/file/d/1j60Hk9JrMzRmuAsOURrOYdMgGrb-Zy-0/view?usp=sharing",
+          "image": "./images/prj/s1/1. 결과보고서_1팀(주석열)_최태열.svg",
+          "name": "Seasons, Still, Return",
+          "type": "Movie",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/11XHo2X2BhTJno_-I3Ru-Z-SYYISCKLc1/view?usp=sharing"
+        },
+        {
+          "title": "당신이 포기하지 않았다는 증거",
+          "url": "https://drive.google.com/file/d/1cPujypeMVokkgW_pryqkp80RsLMXgBgN/view?usp=sharing",
+          "image": "./images/prj/harufit.png",
+          "name": "당신이 포기하지 않았다는 증거",
+          "type": "Movie",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/1ap-M8SxNbEkNe_ZUUpd8MuvW9azeK1Oc/view?usp=sharing"
+        },
+        {
+          "title": "우라긴자 레코드",
+          "url": "https://drive.google.com/file/d/1r1IlwyXS32U3XLRSYu0RzDAHSLsXTTcM/view?usp=sharing",
+          "image": "./images/prj/harufit.png",
+          "name": "우라긴자 레코드",
+          "type": "Movie",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/1vVBjdLsMpDrMw2I3Ab_XXoD2_hrIfU-Z/view?usp=sharing"
+        },
+        {
+          "title": "SAVE THE HEART",
+          "url": "https://drive.google.com/file/d/1yj5nA0K_v_vcMMzbHOko48mfgXLrFBQM/view?usp=sharing",
+          "image": "./images/prj/harufit.png",
+          "name": "SAVE THE HEART",
+          "type": "Movie",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/1Lxe2UMVTgK0jhUbD4qDYJGwBdq3Wy7XE/view?usp=sharing"
+        },
+        {
+          "title": "자막너머",
+          "url": "https://drive.google.com/file/d/1viltbwJz3PKC0JwyGe5Tj7ckq_zCNSma/view?usp=sharing",
+          "image": "./images/prj/s1/1. 결과 보고서_3팀(200FOUND)_유명성_자막너머.svg",
+          "name": "자막너머",
+          "type": "Movie",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/1puzXTWUS5vptkaQnqHzLopqt4BDOyHDm/view?usp=sharing"
+        },
+        {
+          "title": "오버런",
+          "url": "https://drive.google.com/file/d/18FRzcpNHIHYkooiJ_LtkFFPxTnD4lXiN/view?usp=sharing",
+          "image": "./images/prj/s1/1. 결과 보고서_3팀(200FOUND)_이지현_오버런.svg",
+          "name": "오버런",
+          "type": "Movie",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/10YdxjI2-EhT9ORMIWiaVtyLG7Ovw-M2Z/view?usp=sharing"
+        },
+        {
+          "title": "벽을 넘어",
+          "url": "https://drive.google.com/file/d/1q6qQyy9LggsMOOwh60MyPuPD-FwZee93/view?usp=sharing",
+          "image": "./images/prj/fopofo.png",
+          "name": "벽을 넘어",
+          "type": "Movie",
+          "state": false,
+          "docs": "https://drive.google.com/file/d/1_15a-5enKW6zqBA9NtrpBDjlTFrTqAiy/view?usp=sharing"
+        },
+        {
+          "title": "AI활용한 라면 광고영상",
+          "url": "",
+          "image": "./images/prj/gotham.webp",
+          "name": "라면 광고",
+          "type": "Movie",
+          "state": false,
+          "docs": ""
+        },
+        {
+          "title": "수면과 잠에 대한 것을 가사로 만든 뮤직비디오",
+          "url": "",
+          "image": "./images/prj/gotham.webp",
+          "name": "AI활용한 뮤직비디오",
+          "type": "Movie",
+          "state": false,
+          "docs": ""
+        },
+        {
+          "title": "타인의 외모를 훔칠 수 있게 된 사람의 이야기",
+          "url": "",
+          "image": "./images/prj/gotham.webp",
+          "name": "AI활용한 드라마",
+          "type": "Movie",
+          "state": false,
+          "docs": ""
+        },
+        {
+          "title": "생성형 AI를 활용한 단편 애니메이션",
+          "url": "",
+          "image": "./images/prj/pixel.webp",
+          "name": "단편 애니메이션",
+          "type": "Movie",
+          "state": false,
+          "docs": ""
+        },
+        {
+          "title": "생성형 AI로 만든 J-POP 분위기의 노래를 주제로 한 뮤직비디오",
+          "url": "",
+          "image": "./images/prj/pixel.webp",
+          "name": "J-POP 뮤직비디오",
+          "type": "Movie",
+          "state": false,
+          "docs": ""
+        },
+        {
+          "title": "AI를 활용한 단편 영화",
+          "url": "",
+          "image": "./images/prj/solo_dev.webp",
+          "name": "AI를 활용한 단편",
+          "type": "Movie",
+          "state": false,
+          "docs": ""
+        }
+      ]
+    }
+  ]
+}
