@@ -12,7 +12,7 @@
 
 |구분|기술|
 |:---|:---|
-|**AI MODELS**|• **LLM**: `GPT`,`GEMINI`<br>• **LMM**: `SORA`,`VEO`,`WAN`,`FLUX`,`KREA`<br>• **TOOLS**: `COMFYUI`,`N8N`|
+|**AI**|• **LLM**: `GPT`,`GEMINI`<br>• **LMM**: `SORA`,`VEO`,`WAN`,`FLUX`,`KREA`<br>• **TOOLS**: `COMFYUI`,`N8N`|
 |**FRONT**|• **LANGUAGE**: `HTML`,`CSS`,`JAVASCRIPT`<br>• **FRAMEWORK**: `REACT`,`VUE`,`ANGULAR`,`BOOTSTRAP`|
 |**BACK**|• **LANGUAGE**: `JAVA`,`PYTHON`,`JAVASCRIPT`<br>• **FRAMEWORK**:`SPRING`,`FASTAPI`,`EXPRESS.js`|
 |**SERVICE**|• **FRONTEND**: `NGINX`,`HTTPD`<br>• **BACKEND**: `TOMCAT`,`NPM`,`UVICORN`|
