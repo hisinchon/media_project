@@ -152,7 +152,10 @@
 				verticalFit: true,
 				titleSrc: function(item) {
 					let html = item.el.attr('title');
-					html += item.el.attr('data-source') ? ` &middot; <a class="image-source-link" href="${item.el.attr('data-source')}" target="_blank">알아보기</a>` : '';
+					if(item.el.attr('data-source')) {
+						let txt = (item.el.attr('data-type') === 'Web') ? '소스코드' : '영상보기';
+						html += ` &middot; <a class="image-source-link" href="${item.el.attr('data-source')}" target="_blank">${txt}</a>`;
+					}
 					if(item.el.attr('data-state') !== "undefined") {
 						html += item.el.attr('data-state') === "true" ? 
 							` &middot; <a class="image-source-link" href="${item.el.attr('data-document')}" target="_blank">시연 영상보기</a>` : 
@@ -223,7 +226,7 @@
 	const createHtml = (res) => {
 		res?.prj?.forEach(data => {
 			let html = `
-			<section id="fh5co-work" class="${data?.prj1}" data-section="${data?.section}">
+			<section id="fh5co-work" class="${data?.id}" data-section="${data?.section}">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 section-heading text-center">
@@ -240,7 +243,7 @@
 			for(const row of data.projects) {
 				let projects = `
 						<div class="col-md-4 col-sm-6 col-xxs-12">
-							<a href="${row?.image}" class="fh5co-project-item image-popup to-animate" title="${row?.title}" data-source="${row?.url}" data-document="${row?.docs}" data-state="${row?.state}">
+							<a href="${row?.image}" class="fh5co-project-item image-popup to-animate" title="${row?.title}" data-source="${row?.url}" data-document="${row?.docs}" data-state="${row?.state}" data-type="${row?.type}" data-site="${row?.site}">
 								<img src="${row?.image}" alt="Image" class="img-responsive">
 								<div class="fh5co-text">
 								<h2>${row?.name}</h2>
@@ -257,7 +260,7 @@
 			</section>`;
 
 			$("#projects").append(html);
-			const id = `.${data?.prj1}`;
+			const id = `.${data?.id}`;
 			animate(id);
 			magnifPopup(id);
 			setTimeout(function() {

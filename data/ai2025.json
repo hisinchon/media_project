@@ -152,37 +152,69 @@
           "docs": "https://drive.google.com/file/d/1_15a-5enKW6zqBA9NtrpBDjlTFrTqAiy/view?usp=sharing"
         },
         {
-          "title": "AI활용한 라면 광고영상",
+          "title": "SNL 코리아 리부트 시즌 6,7",
           "url": "",
-          "image": "./images/prj/gotham.webp",
-          "name": "라면 광고",
+          "image": "./images/prj/s2/gotham1.png",
+          "name": "TTS 이용한 SNL 코너 어워드",
+          "type": "Movie",
+          "docs": ""
+        },
+        {
+          "title": "스토리부터 디자인까지 AI가 정해주는 키네틱 타이포",
+          "url": "",
+          "image": "./images/prj/s2/gotham2.png",
+          "name": "싸이 나팔바지",
+          "type": "Movie",
+          "docs": ""
+        },
+        {
+          "title": "AI활용한 농심 라면의 역사 영상",
+          "url": "",
+          "image": "./images/prj/s2/박경민.png",
+          "name": "농심 라면의 역사",
           "type": "Movie",
           "state": false,
           "docs": ""
         },
         {
-          "title": "수면과 잠에 대한 것을 가사로 만든 뮤직비디오",
+          "title": "please take a break",
           "url": "",
-          "image": "./images/prj/gotham.webp",
-          "name": "AI활용한 뮤직비디오",
+          "image": "./images/prj/s2/최동근.png",
+          "name": "P.T.B",
           "type": "Movie",
           "state": false,
           "docs": ""
         },
         {
-          "title": "타인의 외모를 훔칠 수 있게 된 사람의 이야기",
+          "title": "AI활용한 드라마",
           "url": "",
-          "image": "./images/prj/gotham.webp",
-          "name": "AI활용한 드라마",
+          "image": "./images/prj/s2/주형준.jpg",
+          "name": "Persona",
           "type": "Movie",
           "state": false,
+          "docs": ""
+        },
+        {
+          "title": "AI 영화 '해방' 예고편",
+          "url": "",
+          "image": "./images/prj/s2/pixel1.png",
+          "name": "해방",
+          "type": "Movie",
+          "docs": ""
+        },
+        {
+          "title": "키네틱 타이포그래피 - kanye west - Bound 2 MV",
+          "url": "",
+          "image": "./images/prj/s2/pixel2.png",
+          "name": "Bound2-anime MV",
+          "type": "Movie",
           "docs": ""
         },
         {
           "title": "생성형 AI를 활용한 단편 애니메이션",
           "url": "",
-          "image": "./images/prj/pixel.webp",
-          "name": "단편 애니메이션",
+          "image": "./images/prj/s2/양정원.png",
+          "name": "AETHER",
           "type": "Movie",
           "state": false,
           "docs": ""
@@ -190,17 +222,8 @@
         {
           "title": "생성형 AI로 만든 J-POP 분위기의 노래를 주제로 한 뮤직비디오",
           "url": "",
-          "image": "./images/prj/pixel.webp",
-          "name": "J-POP 뮤직비디오",
-          "type": "Movie",
-          "state": false,
-          "docs": ""
-        },
-        {
-          "title": "AI를 활용한 단편 영화",
-          "url": "",
-          "image": "./images/prj/solo_dev.webp",
-          "name": "AI를 활용한 단편",
+          "image": "./images/prj/s2/이정현.png",
+          "name": "L // F",
           "type": "Movie",
           "state": false,
           "docs": ""
