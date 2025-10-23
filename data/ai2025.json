@@ -35,28 +35,28 @@
           "docs": "https://www.youtube.com/watch?v=puXkJUhDyYI"
         },
         {
-          "title": "Gotham",
+          "title": "Image 또는 Draw 를 통하여 이미지 생성 및 스토리 보드 관리",
           "url": "https://github.com/higotham",
           "image": "./images/prj/gotham.webp",
-          "name": "고담",
+          "name": "Orange",
           "type": "Web",
           "state": false,
           "docs": "https://drive.google.com/file/d/1UMS-ZR3MfbOs6IledBVVBKjvjor4grBh/view?usp=sharing"
         },
         {
-          "title": "Pixel",
+          "title": "이미지 생성 및 커뮤니티",
           "url": "https://github.com/hiedupixel",
-          "image": "./images/prj/pixel.webp",
-          "name": "픽셀",
+          "image": "./images/prj/s2/pixel.webp",
+          "name": "Gen AI",
           "type": "Web",
           "state": false,
           "docs": "https://drive.google.com/file/d/1dDhLfUrJ_J8r3dxqCc_jMLaMIVhJcKy7/view?usp=sharing"
         },
         {
-          "title": "Solo",
+          "title": "계정 관리 및 ComfyUi 서비스 등 인프라 시스템",
           "url": "https://github.com/Solodkfl",
           "image": "./images/prj/solo_dev.webp",
-          "name": "솔로",
+          "name": "Solo",
           "type": "Web",
           "state": false,
           "docs": "https://drive.google.com/file/d/1lSGfNIyFINm4W4c4sMqNQOPBFJGIQXWq/view?usp=sharing"
@@ -153,7 +153,7 @@
         },
         {
           "title": "SNL 코리아 리부트 시즌 6,7",
-          "url": "",
+          "url": "https://drive.google.com/file/d/1f0BNe5StJJvA3ZR5tHSXLg7Y6VsSw0a6/view?usp=sharing",
           "image": "./images/prj/s2/gotham1.png",
           "name": "TTS 이용한 SNL 코너 어워드",
           "type": "Movie",
@@ -161,7 +161,7 @@
         },
         {
           "title": "스토리부터 디자인까지 AI가 정해주는 키네틱 타이포",
-          "url": "",
+          "url": "https://drive.google.com/file/d/1-1GRPcvsOqVJBkTTn4HyIZ7F3Kagseya/view?usp=sharing",
           "image": "./images/prj/s2/gotham2.png",
           "name": "싸이 나팔바지",
           "type": "Movie",
@@ -169,34 +169,34 @@
         },
         {
           "title": "AI활용한 농심 라면의 역사 영상",
-          "url": "",
+          "url": "https://drive.google.com/file/d/1pQzb_BEm0KrpYdF7AHwnk5vEHRhKcs9s/view?usp=sharing",
           "image": "./images/prj/s2/박경민.png",
           "name": "농심 라면의 역사",
           "type": "Movie",
           "state": false,
-          "docs": ""
+          "docs": "https://drive.google.com/file/d/11DXTkyRkkM5Ewsuv1yehtqAA0helXvnU/view?usp=sharing"
         },
         {
           "title": "please take a break",
-          "url": "",
+          "url": "https://drive.google.com/file/d/1IGX-CuTYwQvCPZ64Zgkefh1ZPo4u349e/view?usp=sharing",
           "image": "./images/prj/s2/최동근.png",
           "name": "P.T.B",
           "type": "Movie",
           "state": false,
-          "docs": ""
+          "docs": "https://drive.google.com/file/d/1m1yuwUUFyqCBbWznRNEe5nHHHO-xDsT_/view?usp=sharing"
         },
         {
           "title": "AI활용한 드라마",
-          "url": "",
+          "url": "https://drive.google.com/file/d/1PI4RPWV4m1EQiYItlGFsiR6heknIFoze/view?usp=sharing",
           "image": "./images/prj/s2/주형준.jpg",
           "name": "Persona",
           "type": "Movie",
           "state": false,
-          "docs": ""
+          "docs": "https://drive.google.com/file/d/1gbNaWwX-KBiEXz7sH5iTeULC9MECuWI3/view?usp=sharing"
         },
         {
           "title": "AI 영화 '해방' 예고편",
-          "url": "",
+          "url": "https://drive.google.com/file/d/1oQYiqLoNJV40rUsAnkEp-VjdmkRJxeAo/view?usp=sharing",
           "image": "./images/prj/s2/pixel1.png",
           "name": "해방",
           "type": "Movie",
@@ -204,7 +204,7 @@
         },
         {
           "title": "키네틱 타이포그래피 - kanye west - Bound 2 MV",
-          "url": "",
+          "url": "https://drive.google.com/file/d/1Mwi_gIAtKaK-Kf2yMId8gq5te-zKr8nU/view?usp=sharing",
           "image": "./images/prj/s2/pixel2.png",
           "name": "Bound2-anime MV",
           "type": "Movie",
@@ -212,21 +212,21 @@
         },
         {
           "title": "생성형 AI를 활용한 단편 애니메이션",
-          "url": "",
+          "url": "https://drive.google.com/file/d/11GO-TUXc-JvCSJbO8TlegcwHMgxlcntT/view?usp=sharing",
           "image": "./images/prj/s2/양정원.png",
           "name": "AETHER",
           "type": "Movie",
           "state": false,
-          "docs": ""
+          "docs": "https://drive.google.com/file/d/1S4VQcBBz4KfLfC8ZoQWcZNG-nwcJX4Zj/view?usp=sharing"
         },
         {
           "title": "생성형 AI로 만든 J-POP 분위기의 노래를 주제로 한 뮤직비디오",
-          "url": "",
+          "url": "https://drive.google.com/file/d/1tgKttp9y3ox8Syym_ghsK-r2Qc4_KSzx/view?usp=sharing",
           "image": "./images/prj/s2/이정현.png",
           "name": "L // F",
           "type": "Movie",
           "state": false,
-          "docs": ""
+          "docs": "https://drive.google.com/file/d/1R5YFhlDxwWYUzDMH7TZm2_NUGmybwq_y/view?usp=sharing"
         }
       ]
     }
